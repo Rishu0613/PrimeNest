@@ -1,0 +1,2933 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PrimeNest.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PrimeNest.ia0ai3t9b4.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\AdminPanel.css",
+      "PackagePath": "staticwebassets\\css\\AdminPanel.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\aos.css",
+      "PackagePath": "staticwebassets\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\bootstrap\\mixins\\_text-truncate.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\mixins\\_text-truncate.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\gijgo.css",
+      "PackagePath": "staticwebassets\\css\\gijgo.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\index.html",
+      "PackagePath": "staticwebassets\\css\\index.html"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\fonts\\index.html",
+      "PackagePath": "staticwebassets\\fonts\\index.html"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\Property\\43ef04d6-a3d5-49af-b5b0-f1c3f8201d35.jpg",
+      "PackagePath": "staticwebassets\\images\\Property\\43ef04d6-a3d5-49af-b5b0-f1c3f8201d35.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\Property\\6176d355-c59b-4cef-a88e-395f64be4185.jpg",
+      "PackagePath": "staticwebassets\\images\\Property\\6176d355-c59b-4cef-a88e-395f64be4185.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\Property\\6361914d-3322-4c21-94f8-8f52bc94b048.jpg",
+      "PackagePath": "staticwebassets\\images\\Property\\6361914d-3322-4c21-94f8-8f52bc94b048.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\Property\\9757d7c7-01a5-431f-90e2-1e92c0fd0daf.jpg",
+      "PackagePath": "staticwebassets\\images\\Property\\9757d7c7-01a5-431f-90e2-1e92c0fd0daf.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\Property\\cc96ada6-410a-4f93-b829-7613fe882496.jpg",
+      "PackagePath": "staticwebassets\\images\\Property\\cc96ada6-410a-4f93-b829-7613fe882496.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\Property\\f5870511-4aa3-4775-ac5d-2f089b1a63b2.jpg",
+      "PackagePath": "staticwebassets\\images\\Property\\f5870511-4aa3-4775-ac5d-2f089b1a63b2.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\User\\223d5c9a-a30c-440d-aa94-6562f5675e6a.jpg",
+      "PackagePath": "staticwebassets\\images\\User\\223d5c9a-a30c-440d-aa94-6562f5675e6a.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\User\\4f80482e-fb30-486e-81b9-0e01907d4c46.jpg",
+      "PackagePath": "staticwebassets\\images\\User\\4f80482e-fb30-486e-81b9-0e01907d4c46.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\User\\b8846cb0-aa6c-426a-bbd9-ae8df4bce239.jpg",
+      "PackagePath": "staticwebassets\\images\\User\\b8846cb0-aa6c-426a-bbd9-ae8df4bce239.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\card.jpg",
+      "PackagePath": "staticwebassets\\images\\card.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\dots.png",
+      "PackagePath": "staticwebassets\\images\\dots.png"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\hero_bg_1.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\hero_bg_2.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_bg_2.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\hero_bg_3.jpg",
+      "PackagePath": "staticwebassets\\images\\hero_bg_3.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\img_1.jpg",
+      "PackagePath": "staticwebassets\\images\\img_1.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\img_2.jpg",
+      "PackagePath": "staticwebassets\\images\\img_2.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\img_3.jpg",
+      "PackagePath": "staticwebassets\\images\\img_3.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\img_4.jpg",
+      "PackagePath": "staticwebassets\\images\\img_4.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\img_5.jpg",
+      "PackagePath": "staticwebassets\\images\\img_5.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\img_6.jpg",
+      "PackagePath": "staticwebassets\\images\\img_6.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\img_7.jpg",
+      "PackagePath": "staticwebassets\\images\\img_7.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\img_8.jpg",
+      "PackagePath": "staticwebassets\\images\\img_8.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\index.html",
+      "PackagePath": "staticwebassets\\images\\index.html"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\messages-1.jpg",
+      "PackagePath": "staticwebassets\\images\\messages-1.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\messages-2.jpg",
+      "PackagePath": "staticwebassets\\images\\messages-2.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\messages-3.jpg",
+      "PackagePath": "staticwebassets\\images\\messages-3.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\news-1.jpg",
+      "PackagePath": "staticwebassets\\images\\news-1.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\news-2.jpg",
+      "PackagePath": "staticwebassets\\images\\news-2.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\news-3.jpg",
+      "PackagePath": "staticwebassets\\images\\news-3.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\news-4.jpg",
+      "PackagePath": "staticwebassets\\images\\news-4.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\news-5.jpg",
+      "PackagePath": "staticwebassets\\images\\news-5.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\not-found.svg",
+      "PackagePath": "staticwebassets\\images\\not-found.svg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\person_1-min.jpg",
+      "PackagePath": "staticwebassets\\images\\person_1-min.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\person_2-min.jpg",
+      "PackagePath": "staticwebassets\\images\\person_2-min.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\person_3-min.jpg",
+      "PackagePath": "staticwebassets\\images\\person_3-min.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\person_4-min.jpg",
+      "PackagePath": "staticwebassets\\images\\person_4-min.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\person_5-min.jpg",
+      "PackagePath": "staticwebassets\\images\\person_5-min.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\person_6-min.jpg",
+      "PackagePath": "staticwebassets\\images\\person_6-min.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\product-1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\product-2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\product-3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\product-4.jpg",
+      "PackagePath": "staticwebassets\\images\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\product-5.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\profile-img.jpg",
+      "PackagePath": "staticwebassets\\images\\profile-img.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\slides-1.jpg",
+      "PackagePath": "staticwebassets\\images\\slides-1.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\slides-2.jpg",
+      "PackagePath": "staticwebassets\\images\\slides-2.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\images\\slides-3.jpg",
+      "PackagePath": "staticwebassets\\images\\slides-3.jpg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\Admin.js",
+      "PackagePath": "staticwebassets\\js\\Admin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\Booking.js",
+      "PackagePath": "staticwebassets\\js\\Booking.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\Pro.js",
+      "PackagePath": "staticwebassets\\js\\Pro.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\Review.js",
+      "PackagePath": "staticwebassets\\js\\Review.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\StateCity.js",
+      "PackagePath": "staticwebassets\\js\\StateCity.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\aos.js",
+      "PackagePath": "staticwebassets\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\counter.js",
+      "PackagePath": "staticwebassets\\js\\counter.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\gijgo.min.js",
+      "PackagePath": "staticwebassets\\js\\gijgo.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\index.html",
+      "PackagePath": "staticwebassets\\js\\index.html"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\navbar.js",
+      "PackagePath": "staticwebassets\\js\\navbar.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\js\\user.js",
+      "PackagePath": "staticwebassets\\js\\user.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\components\\_site-base.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_site-base.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\components\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_site-blocks.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\components\\_site-footer.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_site-footer.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\components\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_site-navbar.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\index.html",
+      "PackagePath": "staticwebassets\\scss\\index.html"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\apexcharts.amd.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\apexcharts.common.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\apexcharts.css",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\apexcharts.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\apexcharts.esm.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ar.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\be-cyrl.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\be-cyrl.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\be-latn.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\be-latn.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ca.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\cs.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\da.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\da.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\de.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\de.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\el.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\el.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\en.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\en.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\es.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\es.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\et.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\et.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\fa.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\fi.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\fr.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\he.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\he.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\hi.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\hr.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\hu.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\hy.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\id.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\id.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\it.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\it.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ja.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ka.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ko.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\lt.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\lv.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\ms.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ms.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\nb.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\nl.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\pl.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\pt-br.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\pt.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\rs.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ru.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\se.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\se.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\sk.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\sl.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\sq.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\th.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\th.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\tr.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\ua.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\vi.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\vi.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\apexcharts\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\vendor\\apexcharts\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\css\\prb.txt",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\prb.txt"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\chart.cjs",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\chart.cjs"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\chart.cjs.map",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\chart.cjs.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\chart.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\chart.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\chart.js.map",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\chart.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\chart.umd.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\chart.umd.js.map",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\chart.umd.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\chunks\\helpers.segment.cjs",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\chunks\\helpers.segment.cjs"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\chunks\\helpers.segment.cjs.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\chunks\\helpers.segment.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\chunks\\helpers.segment.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\chunks\\helpers.segment.js.map",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\chunks\\helpers.segment.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\controllers\\controller.bar.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\controllers\\controller.bar.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\controllers\\controller.bubble.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\controllers\\controller.bubble.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\controllers\\controller.doughnut.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\controllers\\controller.line.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\controllers\\controller.line.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\controllers\\controller.pie.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\controllers\\controller.pie.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\controllers\\controller.polarArea.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\controllers\\controller.radar.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\controllers\\controller.radar.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\controllers\\controller.scatter.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\controllers\\controller.scatter.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\controllers\\index.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\controllers\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.adapters.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.adapters.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.animation.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.animation.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.animations.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.animations.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.animations.defaults.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.animations.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.animator.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.animator.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.config.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.config.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.controller.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.controller.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.datasetController.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.datasetController.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.defaults.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.element.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.element.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.interaction.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.interaction.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.layouts.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.layouts.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.layouts.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.plugins.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.plugins.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.registry.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.registry.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.scale.autoskip.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.scale.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.scale.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.scale.defaults.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.scale.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.ticks.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.ticks.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\core.typedRegistry.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\core.typedRegistry.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\core\\index.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\core\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\elements\\element.arc.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\elements\\element.arc.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\elements\\element.bar.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\elements\\element.bar.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\elements\\element.line.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\elements\\element.line.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\elements\\element.point.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\elements\\element.point.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\elements\\index.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\elements\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers.cjs",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers.cjs"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers.cjs.map",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers.cjs.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers.js",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers.js.map",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.canvas.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.collection.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.collection.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.color.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.color.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.config.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.config.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.config.types.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.core.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.core.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.curve.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.curve.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.dom.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.dom.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.easing.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.easing.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.extras.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.extras.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.interpolation.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.intl.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.intl.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.math.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.math.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.options.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.options.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.rtl.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\helpers.segment.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\helpers.segment.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\helpers\\index.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\helpers\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\index.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\index.umd.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\index.umd.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\platform\\index.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\platform\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\platform\\platform.base.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\platform\\platform.base.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\platform\\platform.basic.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\platform\\platform.basic.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\platform\\platform.dom.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\platform\\platform.dom.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\index.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.colors.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.colors.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.decimation.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.filler\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.legend.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.legend.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.subtitle.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.title.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.title.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\plugins\\plugin.tooltip.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\scales\\index.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\scales\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\scales\\scale.category.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\scales\\scale.category.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\scales\\scale.linear.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\scales\\scale.linear.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\scales\\scale.linearbase.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\scales\\scale.linearbase.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\scales\\scale.logarithmic.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\scales\\scale.radialLinear.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\scales\\scale.time.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\scales\\scale.time.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\scales\\scale.timeseries.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\scales\\scale.timeseries.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\types.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\types.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\types\\animation.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\types\\animation.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\types\\basic.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\types\\basic.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\types\\color.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\types\\color.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\types\\geometric.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\types\\geometric.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\types\\index.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\types\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\types\\layout.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\types\\layout.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\chart.js\\types\\utils.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\chart.js\\types\\utils.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.common.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.common.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.common.js.map",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.common.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.common.min.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.common.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.esm.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.esm.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.esm.js.map",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.esm.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.esm.min.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.esm.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.esm.min.mjs",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.esm.min.mjs"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.esm.mjs",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.esm.mjs"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.esm.mjs.map",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.esm.mjs.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.js.map",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.simple.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.simple.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.simple.js.map",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.simple.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\echarts.simple.min.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\echarts.simple.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\extension\\bmap.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\extension\\bmap.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\extension\\bmap.js.map",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\extension\\bmap.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\extension\\bmap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\extension\\bmap.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\extension\\dataTool.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\extension\\dataTool.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\extension\\dataTool.js.map",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\extension\\dataTool.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\extension\\dataTool.min.js",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\extension\\dataTool.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\echarts\\package.json",
+      "PackagePath": "staticwebassets\\vendor\\echarts\\package.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.bubble.css.map",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.bubble.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.core.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.core.css.map",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.core.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.core.js",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.core.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.core.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.core.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.core.js.map",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.core.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.js",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.js.map",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.js.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\quill\\quill.snow.css.map",
+      "PackagePath": "staticwebassets\\vendor\\quill\\quill.snow.css.map"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.glyph.json",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.glyph.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.module.less",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.module.less"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.scss",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.scss"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.styl",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.styl"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\vendor\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\simple-datatables\\simple-datatables.js",
+      "PackagePath": "staticwebassets\\vendor\\simple-datatables\\simple-datatables.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\simple-datatables\\style.css",
+      "PackagePath": "staticwebassets\\vendor\\simple-datatables\\style.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\README.md",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\README.md"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\bower.json",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\bower.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\composer.json",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\composer.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\icons\\default\\icons.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\icons\\default\\icons.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\icons\\default\\icons.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\icons\\default\\icons.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\icons\\default\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\icons\\default\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\license.md",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\license.md"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\models\\dom\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\models\\dom\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\models\\dom\\model.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\models\\dom\\model.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\models\\dom\\model.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\models\\dom\\model.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\package.json",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\package.json"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\accordion\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\accordion\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\accordion\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\accordion\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\accordion\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\accordion\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\advlist\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\advlist\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\advlist\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\advlist\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\advlist\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\anchor\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\anchor\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\anchor\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\anchor\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\anchor\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\autolink\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\autolink\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\autolink\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\autolink\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\autolink\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\autoresize\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\autoresize\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\autoresize\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\autoresize\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\autoresize\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\autosave\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\autosave\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\autosave\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\autosave\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\autosave\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\charmap\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\charmap\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\charmap\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\charmap\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\charmap\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\code\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\code\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\code\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\code\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\code\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\code\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\codesample\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\codesample\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\codesample\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\codesample\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\codesample\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\directionality\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\directionality\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\directionality\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\directionality\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\directionality\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\emoticons\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\emoticons\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojiimages.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\emoticons\\js\\emojis.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\emoticons\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\emoticons\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\emoticons\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\fullscreen\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\fullscreen\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\fullscreen\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ar.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\bg_BG.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ca.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\cs.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\da.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\de.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\el.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\en.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\es.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\eu.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fa.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fi.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\fr_FR.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\he_IL.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hi.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hr.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\hu_HU.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\id.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\it.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ja.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\kk.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ko_KR.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ms.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nb_NO.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\nl.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pl.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_BR.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\pt_PT.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ro.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\ru.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sk.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sl_SI.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\sv_SE.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\th_TH.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\tr.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\uk.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\vi.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_CN.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\js\\i18n\\keynav\\zh_TW.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\help\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\help\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\image\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\image\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\image\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\image\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\image\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\image\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\importcss\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\importcss\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\importcss\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\importcss\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\importcss\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\insertdatetime\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\insertdatetime\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\insertdatetime\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\link\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\link\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\link\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\link\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\link\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\link\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\lists\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\lists\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\lists\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\lists\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\lists\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\lists\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\media\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\media\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\media\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\media\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\media\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\media\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\nonbreaking\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\nonbreaking\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\nonbreaking\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\pagebreak\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\pagebreak\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\pagebreak\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\preview\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\preview\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\preview\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\preview\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\preview\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\preview\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\quickbars\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\quickbars\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\quickbars\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\quickbars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\quickbars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\save\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\save\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\save\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\save\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\save\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\save\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\searchreplace\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\searchreplace\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\searchreplace\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\table\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\table\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\table\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\table\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\table\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\table\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\visualblocks\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\visualblocks\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\visualblocks\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\visualchars\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\visualchars\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\visualchars\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\visualchars\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\visualchars\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\wordcount\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\wordcount\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\wordcount\\plugin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\wordcount\\plugin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\plugins\\wordcount\\plugin.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\dark\\content.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\dark\\content.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\dark\\content.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\dark\\content.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\dark\\content.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\default\\content.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\default\\content.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\default\\content.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\default\\content.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\default\\content.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\default\\content.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\document\\content.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\document\\content.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\document\\content.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\document\\content.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\document\\content.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\document\\content.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\writer\\content.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\writer\\content.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\writer\\content.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\writer\\content.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\content\\writer\\content.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\content\\writer\\content.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\content.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\content.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\content.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\content.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\content.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\skin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\oxide\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\content.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5-dark\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.inline.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\content.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\skins\\ui\\tinymce-5\\skin.shadowdom.min.css"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\themes\\silver\\index.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\themes\\silver\\index.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\themes\\silver\\theme.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\themes\\silver\\theme.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\themes\\silver\\theme.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\themes\\silver\\theme.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\tinymce.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\tinymce.d.ts"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\tinymce.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\tinymce.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\vendor\\tinymce\\tinymce.min.js",
+      "PackagePath": "staticwebassets\\vendor\\tinymce\\tinymce.min.js"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\videos\\0f105799-180d-4fd2-93ce-1a41624f1950.mp4",
+      "PackagePath": "staticwebassets\\videos\\0f105799-180d-4fd2-93ce-1a41624f1950.mp4"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\videos\\1d6bbbc4-0ba6-4fdd-a316-4661b1335aa7.mp4",
+      "PackagePath": "staticwebassets\\videos\\1d6bbbc4-0ba6-4fdd-a316-4661b1335aa7.mp4"
+    },
+    {
+      "Id": "C:\\Work\\Project To Do\\PrimeNest\\wwwroot\\videos\\9b17bc42-bf31-4939-b8a1-293c7f662262.mp4",
+      "PackagePath": "staticwebassets\\videos\\9b17bc42-bf31-4939-b8a1-293c7f662262.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PrimeNest.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PrimeNest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PrimeNest.props",
+      "PackagePath": "build\\PrimeNest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PrimeNest.props",
+      "PackagePath": "buildMultiTargeting\\PrimeNest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PrimeNest.props",
+      "PackagePath": "buildTransitive\\PrimeNest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

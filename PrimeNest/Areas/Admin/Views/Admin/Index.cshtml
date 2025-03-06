@@ -1,0 +1,81 @@
+﻿@model IEnumerable<PrimeNest.Models.Property>
+
+<section class="section py-5 bg-light">
+    <h1 class="text-center text-primary mb-4">Properties</h1>
+
+    <div class="container">
+        <div id="propertyCarousel" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                @foreach (var prop in Model.Select((property, index) => new { property, index }))
+                {
+                    <div class="carousel-item @(prop.index == 0 ? "active" : "")">
+                        <div class="row justify-content-center">
+                            <div class="col-lg-8">
+                                <div class="card shadow-sm border-0">
+                                    <div class="card-body">
+                                        <h2 class="text-primary">@prop.property.Title</h2>
+                                        <p class="text-muted mb-1"><i class="fas fa-map-marker-alt"></i> @prop.property.City.Name, @prop.property.Address</p>
+                                        <p class="text-secondary">@prop.property.Description</p>
+
+                                        <!-- Images Section -->
+                                        <div class="row g-2">
+                                            @if (prop.property.PropertyImages != null && prop.property.PropertyImages.Any())
+                                            {
+                                                foreach (var image in prop.property.PropertyImages)
+                                                {
+                                                    <div class="col-md-6">
+                                                        <img src="@image.ImageUrl" class="w-100 rounded shadow-sm" alt="Property Image" style="height: 160px; object-fit: cover;">
+                                                    </div>
+                                                }
+                                            }
+                                            else
+                                            {
+                                                <div class="col-md-6">
+                                                    <img src="/images/no-image.png" alt="No Image Available" class="w-100 rounded shadow-sm" style="height: 160px; object-fit: cover;" />
+                                                </div>
+                                            }
+                                        </div>
+
+                                        <!-- Video Section -->
+                                        <div class="row g-2 mt-3">
+                                            @if (prop.property.PropertyVideos != null && prop.property.PropertyVideos.Any())
+                                            {
+                                                foreach (var video in prop.property.PropertyVideos)
+                                                {
+                                                    <div class="col-md-6">
+                                                        <video controls class="w-100 rounded shadow-sm" style="height: 160px; object-fit: cover;">
+                                                            <source src="@video.VideoUrl" type="video/mp4">
+                                                            Your browser does not support the video tag.
+                                                        </video>
+                                                    </div>
+                                                }
+                                            }
+                                        </div>
+
+                                        <div class="d-flex align-items-center mt-4 p-3 bg-white shadow-sm rounded">
+                                            <img src="@prop.property.User.ProfilePic" alt="Agent Image" class="rounded-circle me-3" style="width: 60px; height: 60px; object-fit: cover;">
+                                            <div>
+                                                <h5 class="mb-0">@prop.property.User.Name</h5>
+                                                <span class="text-muted">@prop.property.User.About</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            <!-- Carousel Controls -->
+            <button class="carousel-control-prev" type="button" data-bs-target="#propertyCarousel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#propertyCarousel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+</section>

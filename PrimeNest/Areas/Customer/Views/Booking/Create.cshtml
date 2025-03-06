@@ -1,0 +1,70 @@
+﻿@model PrimeNest.Models.ViewModels.BookingVM
+
+@{
+    ViewData["Title"] = "Create Appointment";
+}
+
+<div class="section">
+    <div class="container">
+        <div class="card shadow p-4">
+            <h1 class="text-center my-4">Book an Appointment</h1>
+
+            <form asp-action="Create" method="post">
+
+                <!-- Full Name (Read-only) -->
+                <div class="mb-3">
+                    <label asp-for="Booking.CustomerName" class="form-label">Full Name</label>
+                    <input asp-for="Booking.CustomerName" class="form-control" required readonly>
+                    <span asp-validation-for="Booking.CustomerName" class="text-danger"></span>
+                </div>
+
+                <!-- Email (Read-only) -->
+                <div class="mb-3">
+                    <label asp-for="Booking.Email" class="form-label">Email Address</label>
+                    <input asp-for="Booking.Email" class="form-control" required readonly>
+                    <span asp-validation-for="Booking.Email" class="text-danger"></span>
+                </div>
+
+                <!-- Phone Number -->
+                <div class="mb-3">
+                    <label asp-for="Booking.PhoneNumber" class="form-label">Phone Number</label>
+                    <input asp-for="Booking.PhoneNumber" class="form-control" required>
+                    <span asp-validation-for="Booking.PhoneNumber" class="text-danger"></span>
+                </div>
+
+                <!-- Date and Time Selection -->
+                <div class="row">
+                    <!-- Booking Date -->
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="Booking.BookingDate" class="form-label">Date</label>
+                        <input asp-for="Booking.BookingDate" type="date" class="form-control"
+                               required min="@DateTime.Now.ToString("yyyy-MM-dd")">
+                        <span asp-validation-for="Booking.BookingDate" class="text-danger"></span>
+                    </div>
+
+                    <!-- Booking Time -->
+                    <div class="col-md-6 mb-3">
+                        <label asp-for="Booking.BookingTime" class="form-label">Select Time</label>
+                        <input asp-for="Booking.BookingTime" type="time" class="form-control"
+                               required step="1800" min="08:00" max="18:00"
+                               value="@(Model.Booking.BookingTime != null ? Model.Booking.BookingTime.ToString(@"hh\:mm") : "08:00")">
+                        <span asp-validation-for="Booking.BookingTime" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <!-- Hidden Fields -->
+                <input type="hidden" asp-for="Booking.Id">
+
+                <!-- Add hidden field for PropertyId -->
+                <input type="hidden" name="PropertyId" value="@Model.Booking.PropertyId">
+
+                <!-- Submit Button -->
+                <button type="submit" class="btn btn-primary w-100">Book Appointment</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

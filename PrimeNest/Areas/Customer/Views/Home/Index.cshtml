@@ -1,0 +1,146 @@
+﻿@model IEnumerable<PrimeNest.Models.Property>
+
+<div class="hero">
+    <div class="hero-slide">
+        <div class="img overlay" style="background-image: url('images/hero_bg_3.jpg')"></div>
+        <div class="img overlay" style="background-image: url('images/hero_bg_2.jpg')"></div>
+        <div class="img overlay" style="background-image: url('images/hero_bg_1.jpg')"></div>
+    </div>
+
+    <div class="container">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-lg-9 text-center">
+                <h1 class="heading" data-aos="fade-up">
+                    Easiest way to find your dream home
+                </h1>
+                <form method="post" class="narrow-w form-search d-flex align-items-stretch mb-3" data-aos="fade-up" data-aos-delay="200">
+                    <input type="text" class="form-control px-4" name="query" placeholder="Your ZIP code or City. e.g. New York" />
+                    <button type="submit" class="btn btn-primary">Search</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="container">
+        <div class="row mb-5 align-items-center">
+            <div class="col-lg-6">
+                <h2 class="font-weight-bold text-primary heading">
+                    Popular Properties
+                </h2>
+            </div>
+            <div class="col-lg-6 text-lg-end">
+                <p>
+                    <a asp-action="ViewAllProperties" class="btn btn-primary text-white py-3 px-4">View all properties</a>
+                </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="property-slider-wrap">
+                    <div class="property-slider">
+                        @foreach (var prop in Model)
+                        {
+                            <div class="property-item">
+                                <a asp-action="Detail" asp-route-id="@prop.Id" class="img">
+                                    @if (prop.PropertyImages != null && prop.PropertyImages.Any())
+                                    {
+                                        var carouselId = "carousel" + prop.Id;
+                                        <div id="@carouselId" class="carousel slide" data-bs-ride="carousel">
+                                            <div class="carousel-inner">
+                                                @for (int i = 0; i < prop.PropertyImages.Count(); i++)
+                                                {
+                                                    var image = prop.PropertyImages.ElementAt(i);
+                                                    <div class="carousel-item @(i == 0 ? "active" : "")">
+                                                        <img src="@image.ImageUrl" class="d-block w-100" alt="Property Image" style="height: 250px; object-fit: cover;">
+                                                    </div>
+                                                }
+                                            </div>
+                                           @*  <button class="carousel-control-prev" type="button" data-bs-target="#@carouselId" data-bs-slide="prev">
+                                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                                <span class="visually-hidden">Previous</span>
+                                            </button>
+                                            <button class="carousel-control-next" type="button" data-bs-target="#@carouselId" data-bs-slide="next">
+                                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                                <span class="visually-hidden">Next</span>
+                                            </button> *@
+                                        </div>
+                                    }
+                                    else
+                                    {
+                                        <img src="/images/no-image.png" alt="No Image Available" class="d-block w-100" style="height: 250px; object-fit: cover;" />
+                                    }
+                                </a>
+
+                                <div class="property-content">
+                                    <div class="price mb-2"><span>$@prop.Price</span></div>
+                                    <div>
+                                        <span class="d-block mb-2 text-black-50">@prop.Address</span>
+                                        <span class="city d-block mb-3">@prop.City.Name</span>
+                                        <div class="specs d-flex mb-4">
+                                            <span class="d-block d-flex align-items-center me-3">
+                                                <i class="fas fa-light fa-earth-americas"></i>
+                                                <span class="caption">&nbsp;@prop.PropertyType.Name</span>
+                                            </span>
+                                            <span class="d-block d-flex align-items-center">
+                                                <i class="fas fa-thin fa-money-bills"></i>
+                                                <span class="caption">&nbsp;@prop.status</span>
+                                            </span>
+                                        </div>
+
+                                        <a asp-route-id="@prop.Id" asp-action="Detail" class="btn btn-primary py-2 px-3">See details</a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+                    <div id="property-nav" class="controls" tabindex="0" aria-label="Carousel Navigation">
+                        <span class="prev" data-controls="prev" aria-controls="property" tabindex="-1">Prev</span>
+                        <span class="next" data-controls="next" aria-controls="property" tabindex="-1">Next</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="features-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="300">
+                <div class="box-feature">
+                    <span class="flaticon-house"></span>
+                    <h3 class="mb-3">Our Properties</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, accusamus.</p>
+                    <p><a href="#" class="learn-more">Learn More</a></p>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="500">
+                <div class="box-feature">
+                    <span class="flaticon-building"></span>
+                    <h3 class="mb-3">Property for Sale</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, accusamus.</p>
+                    <p><a href="#" class="learn-more">Learn More</a></p>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="400">
+                <div class="box-feature">
+                    <span class="flaticon-house-3"></span>
+                    <h3 class="mb-3">Real Estate Agent</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, accusamus.</p>
+                    <p><a href="#" class="learn-more">Learn More</a></p>
+                </div>
+            </div>
+            <div class="col-6 col-lg-3" data-aos="fade-up" data-aos-delay="600">
+                <div class="box-feature">
+                    <span class="flaticon-house-1"></span>
+                    <h3 class="mb-3">House for Sale</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptates, accusamus.</p>
+                    <p><a href="#" class="learn-more">Learn More</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

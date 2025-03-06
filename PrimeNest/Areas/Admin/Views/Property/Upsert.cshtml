@@ -1,0 +1,137 @@
+﻿@model PrimeNest.Models.ViewModels.PropertyVM
+@{
+    ViewData["Title"] = "Upsert";
+    var title = Model.Property.Id != 0 ? "Edit Property" : "ADD PROPERTY";
+    var saveupdate = Model.Property.Id != 0 ? "Update" : "Save";
+
+}
+<section class="section">
+    <div class="card">
+        <div class="card-body">
+             <h5 class="card-title">@title</h5>
+
+            <form class="row g-3" method="post" enctype="multipart/form-data">
+                @if (Model.Property.Id != 0)
+                {
+                    <input type="hidden" asp-for="@Model.Property.Id" />
+                }
+
+                <div class="col-md-12">
+                    <div class="form-floating">
+                        <input asp-for="@Model.Property.Title" class="form-control" id="floatingName" placeholder="Property Title">
+                        <label asp-for="@Model.Property.Title"></label>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <input asp-for="@Model.Property.UserId" class="form-control" id="floatingEmail" placeholder="User ID" disabled>
+                        <label asp-for="@Model.Property.UserId"></label>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-floating mb-3">
+                        <select asp-for="@Model.Property.PropertyTypeId" asp-items="@Model.PropertyType" class="form-select">
+                            <option value="">Please Select</option>
+                        </select>
+                        <label>Property Type</label>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <textarea asp-for="@Model.Property.Address" class="form-control" placeholder="Address" style="height: 100px;"></textarea>
+                        <label asp-for="@Model.Property.Address"></label>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <textarea asp-for="@Model.Property.Description" class="form-control" placeholder="Description" style="height: 100px;"></textarea>
+                        <label asp-for="@Model.Property.Description"></label>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <select asp-for="@Model.Property.CityId" asp-items="@Model.City" class="form-select">
+                            <option value="">Please Select</option>
+                        </select>
+                        <label>City</label>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-floating">
+                        <input asp-for="@Model.Property.Price" type="number" class="form-control" placeholder="Price">
+                        <label asp-for="@Model.Property.Price"></label>
+                    </div>
+                </div>
+
+                <!-- Image Upload -->
+                <div class="col-md-6">
+                    <label>Upload Images</label>
+                    <input type="file" name="files" multiple class="form-control" accept="image/*" />
+                </div>
+
+                <!-- Video Upload -->
+                <div class="col-md-6">
+                    <label>Upload Videos</label>
+                    <input type="file" name="files" multiple class="form-control" accept="video/*" />
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-floating mb-3">
+                        <select asp-items="Html.GetEnumSelectList<PrimeNest.Models.Property.PropertyFor>()" asp-for="Property.propertyFor" class="form-select">
+                            <option>Please Select</option>
+                        </select>
+                        <label>Property For</label>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-floating mb-3">
+                        <select asp-items="Html.GetEnumSelectList<PrimeNest.Models.Property.Status>()" asp-for="Property.status" class="form-select">
+                            <option>Please Select</option>
+                        </select>
+                        <label>Status</label>
+                    </div>
+                </div>
+
+                <!-- Display Existing Images -->
+                @if (Model.Property.PropertyImages != null && Model.Property.PropertyImages.Any())
+                {
+                    <h3>Existing Images</h3>
+                    @foreach (var image in Model.Property.PropertyImages)
+                    {
+                        <div class="col-md-6">
+                            <img src="@image.ImageUrl" height="150" width="250" class="m-2" />
+                        </div>
+                    }
+                }
+
+                <!-- Display Existing Videos -->
+                @if (Model.Property.PropertyVideos != null && Model.Property.PropertyVideos.Any())
+                {
+                    <h3>Existing Videos</h3>
+                    @foreach (var video in Model.Property.PropertyVideos)
+                    {
+                        <div class="col-md-6">
+                            <video width="250" height="150" controls>
+                                <source src="@video.VideoUrl" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                        </div>
+                    }
+                }
+
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary">@saveupdate</button>
+                    <button type="reset" class="btn btn-secondary">Reset</button>
+                </div>
+            </form>
+
+        </div>
+    </div>
+</section>

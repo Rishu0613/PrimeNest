@@ -1,0 +1,17 @@
+C:\Work\Project To Do\PrimeNest.DataAccess\bin\Debug\net8.0\PrimeNest.DataAccess.deps.json
+C:\Work\Project To Do\PrimeNest.DataAccess\bin\Debug\net8.0\PrimeNest.DataAccess.dll
+C:\Work\Project To Do\PrimeNest.DataAccess\bin\Debug\net8.0\PrimeNest.DataAccess.pdb
+C:\Work\Project To Do\PrimeNest.DataAccess\obj\Debug\net8.0\PrimeNest.DataAccess.csproj.AssemblyReference.cache
+C:\Work\Project To Do\PrimeNest.DataAccess\obj\Debug\net8.0\PrimeNest.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Project To Do\PrimeNest.DataAccess\obj\Debug\net8.0\PrimeNest.DataAccess.AssemblyInfoInputs.cache
+C:\Work\Project To Do\PrimeNest.DataAccess\obj\Debug\net8.0\PrimeNest.DataAccess.AssemblyInfo.cs
+C:\Work\Project To Do\PrimeNest.DataAccess\obj\Debug\net8.0\PrimeNest.DataAccess.csproj.CoreCompileInputs.cache
+C:\Work\Project To Do\PrimeNest.DataAccess\obj\Debug\net8.0\PrimeNest.DataAccess.dll
+C:\Work\Project To Do\PrimeNest.DataAccess\obj\Debug\net8.0\refint\PrimeNest.DataAccess.dll
+C:\Work\Project To Do\PrimeNest.DataAccess\obj\Debug\net8.0\PrimeNest.DataAccess.pdb
+C:\Work\Project To Do\PrimeNest.DataAccess\obj\Debug\net8.0\ref\PrimeNest.DataAccess.dll
+C:\Work\Project To Do\PrimeNest.DataAccess\bin\Debug\net8.0\PrimeNest.Models.dll
+C:\Work\Project To Do\PrimeNest.DataAccess\bin\Debug\net8.0\PrimeNest.Models.pdb
+C:\Work\Project To Do\PrimeNest.DataAccess\obj\Debug\net8.0\PrimeNes.A3B4D9B1.Up2Date
+C:\Work\Project To Do\PrimeNest.DataAccess\bin\Debug\net8.0\PrimeNest.DataAccess.runtimeconfig.json
+C:\Work\Project To Do\PrimeNest.DataAccess\obj\Debug\net8.0\PrimeNest.DataAccess.genruntimeconfig.cache

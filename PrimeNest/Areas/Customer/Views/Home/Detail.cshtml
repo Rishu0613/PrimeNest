@@ -1,0 +1,299 @@
+﻿@model PrimeNest.Models.ViewModels.PropertyVM
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<style>
+    .checked {
+        color: orange;
+    }
+
+    .img-thumbnail {
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+
+        .img-thumbnail:hover {
+            transform: scale(1.05);
+        }
+
+    .property-images {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+    }
+
+        .property-images img {
+            max-width: 100px;
+            height: 75px;
+            object-fit: cover;
+            cursor: pointer;
+        }
+
+    .property-video {
+        margin-bottom: 16px;
+    }
+
+    .carousel-inner img {
+        height: 450px;
+        object-fit: cover;
+    }
+
+    .star-rating {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: flex-start;
+    }
+
+    .star {
+        font-size: 30px;
+        cursor: pointer;
+        color: gray; /* Default color for stars */
+    }
+
+    input[type="radio"] {
+        display: none;
+    }
+
+        input[type="radio"]:checked ~ label {
+            color: gold; /* This applies gold color to the stars when checked */
+        }
+
+            /* Ensure that hovering on a star highlights it along with previously selected ones */
+            input[type="radio"]:checked ~ label:hover,
+            input[type="radio"]:checked ~ label:hover ~ label {
+                color: gold;
+            }
+
+    label {
+        cursor: pointer;
+    }
+
+    .star {
+        font-size: 30px;
+        cursor: pointer;
+        color: gray; /* Default color for stars */
+    }
+
+        .star.checked {
+            color: gold; /* Apply gold color when checked */
+        }
+
+</style>
+
+<div class="hero page-inner overlay" style="background-image: url('@Url.Content("~/images/hero_bg_3.jpg")')">
+    <div class="container">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-lg-9 text-center mt-5">
+                <h1 class="heading">@Model.Property.Address</h1>
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb text-center justify-content-center">
+                        <li class="breadcrumb-item"><a asp-action="Index">Home</a></li>
+                        <li class="breadcrumb-item"><a asp-action="ViewAllProperties">Properties</a></li>
+                        <li class="breadcrumb-item active text-white-50">@Model.Property.Address</li>
+                    </ol>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="section">
+    <div class="container">
+        <div class="row justify-content-between">
+            <div class="col-lg-7">
+                <!-- Image Carousel -->
+                <div id="propertyImageCarousel" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        @foreach (var image in Model.PropertyImages)
+                        {
+                            <div class="carousel-item @(image == Model.PropertyImages.First() ? "active" : "")">
+                                <img src="@image.ImageUrl" class="d-block w-100" alt="Property Image">
+                            </div>
+                        }
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#propertyImageCarousel" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#propertyImageCarousel" data-bs-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                    </button>
+                </div>
+
+                <!-- Image Thumbnails -->
+                <div class="mt-3">
+                    <h5>Image Gallery</h5>
+                    <div class="property-images">
+                        @foreach (var (image, index) in Model.PropertyImages.Select((value, i) => (value, i)))
+                        {
+                            <img src="@image.ImageUrl" class="img-thumbnail" data-bs-target="#propertyImageCarousel" data-bs-slide-to="@index">
+                        }
+                    </div>
+                </div>
+
+
+                <!-- Video Section -->
+                <div class="mt-4">
+                    <h5>Property Videos</h5>
+                    <div class="row">
+                        @foreach (var video in Model.PropertyVideos)
+                        {
+                            <div class="col-md-4 property-video">
+                                <video controls class="w-100" style="height: 250px; object-fit: cover;">
+                                    <source src="@video.VideoUrl" type="video/mp4">
+                                </video>
+                            </div>
+                        }
+                    </div>
+                </div>
+
+               @*  <!-- Review Section -->
+                <div class="container mt-5">
+                    <h2 class="mb-4">Reviews</h2>
+                    <!-- Reviews Section -->
+                    <div class="list-group">
+                        @if (Model.Reviews != null && Model.Reviews.Any())
+                        {
+                            foreach (var review in Model.Reviews)
+                            {
+                                <div class="list-group-item" style="border-radius: 23px;">
+                                    <div class="d-flex w-100 justify-content-between">
+                                        <img src="@review.User.ProfilePic" width="100" height="100" style="border-radius: 50px;" />
+                                        <h5 class="mb-1" style="margin-top: 50px;">@review.User.Name</h5>
+                                        <small class="text-muted">@review.DateCreated.ToString("MMM dd, yyyy")</small>
+                                    </div>
+                                    <p class="mb-1"><b>Comment</b>:<p style="margin-left: 79px;">@review.Comment</p></p>
+                                    <!-- Display Review Stars -->
+                                    <div class="rating">
+                                        @for (int i = 1; i <= 5; i++)
+                                        {
+                                            <span class="star @(i <= review.Stars ? "checked" : "")">&#9733;</span>
+                                        }
+                                    </div>
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            <p class="text-muted">No reviews yet. Be the first to leave a review!</p>
+                        }
+                        <button type="button" class="btn btn-primary m-2" data-bs-toggle="modal" data-bs-target="#reviewModal" style="width: 170px;">
+                            Add Review
+                        </button>
+                    </div>
+                </div> *@
+
+                <!-- Review Section -->
+                <div class="container mt-5">
+                    <h2 class="mb-4">Reviews</h2>
+                    <!-- Reviews Section -->
+                    <div class="list-group" style="max-height: 400px; overflow-y: auto; border: 1px solid #ddd; padding: 10px; border-radius: 10px;">
+                        @if (Model.Reviews != null && Model.Reviews.Any())
+                        {
+                            foreach (var review in Model.Reviews)
+                            {
+                                <div class="list-group-item" style="border-radius: 23px;">
+                                    <div class="d-flex w-100 justify-content-between">
+                                        <img src="@review.User.ProfilePic" width="100" height="100" style="border-radius: 50px;" />
+                                        <h5 class="mb-1" style="margin-top: 50px;">@review.User.Name</h5>
+                                        <small class="text-muted"><a class="btn" asp-action="DeleteReview" asp-route-id="@review.Id"><i class="fas fa-solid fa-delete-left"></i></a></small>
+                                    </div>
+                                    <p class="mb-1"><b>Comment</b>:<p style="margin-left: 79px;">@review.Comment</p></p>
+                                    <small class="text-muted">@review.DateCreated.ToString("MMM dd, yyyy")</small>
+
+                                    <!-- Display Review Stars -->
+                                    <div class="rating">
+                                        @for (int i = 1; i <= 5; i++)
+                                        {
+                                            <span class="star @(i <= review.Stars ? "checked" : "")">&#9733;</span>
+                                        }
+                                    </div>
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            <p class="text-muted">No reviews yet. Be the first to leave a review!</p>
+                        }
+                     
+                    </div>
+                    <button type="button" class="btn btn-primary m-2" data-bs-toggle="modal" data-bs-target="#reviewModal" style="width: 170px;">
+                        Add Review
+                    </button>
+                </div>
+
+
+                <!-- Review Modal -->
+                <div class="modal fade" id="reviewModal" tabindex="-1" aria-labelledby="reviewModalLabel" aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="reviewModalLabel">Add Review</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <form method="post" asp-action="SubmitReview">
+                                    <input type="hidden" name="PropertyId" value="@Model.Property.Id">
+
+                                    <!-- Review Post Stars -->
+                                    <div class="mb-3">
+                                        <label class="form-label">Rating</label>
+                                        <div class="star-rating">
+                                            @for (int i = 5; i >= 1; i--)
+                                            {
+                                                <input type="radio" id="star@(i)" name="Stars" value="@i" required>
+                                                <label for="star@(i)" class="star">&#9733;</label>
+                                            }
+                                        </div>
+                                    </div>
+
+                                    <div class="mb-3">
+                                        <label class="form-label">Comment</label>
+                                        <textarea name="Comment" class="form-control" maxlength="1000" required></textarea>
+                                    </div>
+
+                                    <button type="submit" class="btn btn-primary">Submit Review</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="col-lg-4">
+                <h2 class="heading text-primary">@Model.Property.Address</h2>
+                <p class="meta">@Model.Property.City.Name</p>
+                <p class="text-black-50">
+                    @Model.Property.Description
+                </p>
+
+                <!-- Agent Box -->
+                <div class="d-block agent-box p-5" style="border-radius: 80px;">
+                    <div class="img mb-4">
+                        <img src="@Model.Property.User.ProfilePic" alt="Agent Image" class="img-fluid" style="border-radius: 16px;width: 118px;height: 82px;" />
+                    </div>
+                    <div class="text">
+                        <h3 class="mb-0">@Model.Property.User.Name</h3>
+                        <p>
+                            <b>About Agent:</b><br />
+                            @Model.Property.User.About
+                        </p>
+                        <ul class="list-unstyled social dark-hover d-flex">
+                            <li>
+                                <button type="button" class="btn btn-primary" id="bookAppointmentButton">
+                                    Book Appointment
+                                </button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    document.getElementById("bookAppointmentButton").addEventListener("click", function() {
+        var propertyId = "@Model.Property.Id"; // Get PropertyId from the model
+        window.location.href = "/Customer/Booking/Create/" + propertyId; // Redirect to the action with PropertyId
+    });
+</script>

@@ -1,0 +1,12 @@
+C:\Work\Project To Do\PrimeNest.Models\bin\Debug\net8.0\PrimeNest.Models.deps.json
+C:\Work\Project To Do\PrimeNest.Models\bin\Debug\net8.0\PrimeNest.Models.dll
+C:\Work\Project To Do\PrimeNest.Models\bin\Debug\net8.0\PrimeNest.Models.pdb
+C:\Work\Project To Do\PrimeNest.Models\obj\Debug\net8.0\PrimeNest.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Work\Project To Do\PrimeNest.Models\obj\Debug\net8.0\PrimeNest.Models.AssemblyInfoInputs.cache
+C:\Work\Project To Do\PrimeNest.Models\obj\Debug\net8.0\PrimeNest.Models.AssemblyInfo.cs
+C:\Work\Project To Do\PrimeNest.Models\obj\Debug\net8.0\PrimeNest.Models.csproj.CoreCompileInputs.cache
+C:\Work\Project To Do\PrimeNest.Models\obj\Debug\net8.0\PrimeNest.Models.dll
+C:\Work\Project To Do\PrimeNest.Models\obj\Debug\net8.0\refint\PrimeNest.Models.dll
+C:\Work\Project To Do\PrimeNest.Models\obj\Debug\net8.0\PrimeNest.Models.pdb
+C:\Work\Project To Do\PrimeNest.Models\obj\Debug\net8.0\ref\PrimeNest.Models.dll
+C:\Work\Project To Do\PrimeNest.Models\obj\Debug\net8.0\PrimeNest.Models.csproj.AssemblyReference.cache

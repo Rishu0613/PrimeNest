@@ -1,0 +1,44 @@
+﻿@model PrimeNest.Models.State
+@{
+    ViewData["Title"] = "State";
+    var title = Model.Id != 0 ? "Edit State" : "ADD State";
+    var saveupdate = Model.Id != 0 ? "Update" : "Save";
+
+}
+<div class="card">
+    <div class="card-body">
+        <h5 class="card-title">Add State</h5>
+
+        <!-- No Labels Form -->
+        <form class="row g-3" method="post">
+            @if (Model.Id != 0)
+            {
+                <input type="hidden" asp-for="@Model.Id" />
+            }
+                <div class="col-7">
+                <input type="text" asp-for="Name" class="form-control" placeholder="State">
+            </div>
+            <div class="col-md-5">
+                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="reset" class="btn btn-secondary">Reset</button>
+            </div>
+        </form><!-- End No Labels Form -->
+    </div>
+</div>
+<h1 class="text-center">State</h1>
+<section class="section">
+    <div class="container border rounded shadow p-4 bg-light">
+        <table id="tblStates" class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>State Name</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="~/js/StateCity.js"></script>
+}
